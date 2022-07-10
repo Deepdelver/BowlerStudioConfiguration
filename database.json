@@ -14,10 +14,6 @@
     "https://github.com/Deepdelver/colo01.git:.groovy": [
       "https://github.com/Deepdelver/colo01.git",
       ".groovy"
-    ],
-    "https://github.com/madhephaestus/RoundMotorVitamin.git:dShaft.groovy": [
-      "https://github.com/madhephaestus/RoundMotorVitamin.git",
-      "dShaft.groovy"
     ]
   },
   "BowlerStudioConfigs": {

@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/madhephaestus/RoundMotorVitamin.git": [
+      "https://github.com/madhephaestus/RoundMotorVitamin.git",
+      "1657474383021"
+    ],
     "https://github.com/Deepdelver/colo01.git": [
       "Deepdelver/colo01",
       "1657474355267"
@@ -10,6 +14,10 @@
     "https://github.com/Deepdelver/colo01.git:.groovy": [
       "https://github.com/Deepdelver/colo01.git",
       ".groovy"
+    ],
+    "https://github.com/madhephaestus/RoundMotorVitamin.git:dShaft.groovy": [
+      "https://github.com/madhephaestus/RoundMotorVitamin.git",
+      "dShaft.groovy"
     ]
   },
   "BowlerStudioConfigs": {
